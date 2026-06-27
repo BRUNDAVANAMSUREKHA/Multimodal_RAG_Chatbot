@@ -286,5 +286,9 @@ docker compose down
 ---
 
 <div align="center">
-Built with ❤️ using Streamlit · FastAPI · Google Gemini · Milvus
+
+**Built with ❤️ using Streamlit · FastAPI · Google Gemini · Milvus**
+
+*If you found this project useful, consider giving it a ⭐ on GitHub!*
+
 </div>
