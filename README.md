@@ -1,8 +1,13 @@
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Multimodal+RAG+Chatbot+🤖;Chat+with+Any+Document;PDF+%7C+DOCX+%7C+TXT+%7C+CSV+%7C+PPTX;Built+by+Surekha+Brundavanam" alt="Typing SVG" />
+<br/>
+</div>
+        
+<div align="center">
 
 # 🤖 Multimodal RAG Chatbot
 
-**A ChatGPT-style document chatbot powered by Google Gemini AI and Milvus vector database**
+**A ChatGPT-style document chatbot Created using Google Gemini AI and Milvus vector database**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.41-red?style=for-the-badge&logo=streamlit)
@@ -53,7 +58,7 @@ Answer is displayed in the chat UI
 - 📊 **Performance metrics dashboard** — success rate, faithfulness, response time, context precision
 - 🔑 **API Key guide page** — built-in step-by-step guide for new users
 - 🔍 **Semantic search** — Milvus vector similarity search for accurate retrieval
-- 🤖 **Google Gemini powered** — uses `gemini-2.5-flash` for generation and `gemini-embedding-001` for embeddings
+- 🤖 **Google Gemini API key used** — uses `gemini-2.5-flash` for generation and `gemini-embedding-001` for embeddings
 - 🐳 **Docker-based Milvus** — one command to start the vector database
 
 ---
