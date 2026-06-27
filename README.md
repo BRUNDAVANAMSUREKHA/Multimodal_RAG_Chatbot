@@ -281,7 +281,7 @@ docker compose down
 
 ## 📄 License
 
-This project is for educational and demonstration purposes.
+⚠️ This is a proprietary project. All rights reserved © 2025 Surekha Brundavanam. Usage, reproduction, or distribution without permission is strictly prohibited.
 
 ---
 
