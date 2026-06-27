@@ -10,6 +10,7 @@
 ![Milvus](https://img.shields.io/badge/Milvus-2.4-purple?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-AI-orange?style=for-the-badge&logo=google)
 ![Docker](https://img.shields.io/badge/Docker-Required-blue?style=for-the-badge&logo=docker)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 
 </div>
 
