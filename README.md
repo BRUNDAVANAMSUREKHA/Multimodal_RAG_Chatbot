@@ -279,6 +279,19 @@ docker compose down
 
 ---
 
+## 👩‍💻 Author
+
+<div align="center">
+
+**Surekha Brundavanam**
+
+[![GitHub](https://img.shields.io/badge/GitHub-BRUNDAVANAMSUREKHA-181717?style=for-the-badge&logo=github)](https://github.com/BRUNDAVANAMSUREKHA)
+
+</div>
+
+---
+
+
 ## 📄 License
 
 ⚠️ This is a proprietary project. All rights reserved © 2025 Surekha Brundavanam. Usage, reproduction, or distribution without permission is strictly prohibited.
